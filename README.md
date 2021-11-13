@@ -1,1 +1,1 @@
-![Been's GitHub stats](https://github-readme-stats.vercel.app/api?username=Been101&show_icons=true&theme=gruvbox)
+![Been's GitHub stats](https://github-readme-stats.vercel.app/api?username=Been101&show_icons=true&theme=jolly)
